@@ -63,6 +63,16 @@ namespace TimeTable_Management_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap refresh_Icon {
+            get {
+                object obj = ResourceManager.GetObject("refresh Icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap school_timetable_icon__3_ {
             get {
                 object obj = ResourceManager.GetObject("school-timetable-icon (3)", resourceCulture);
